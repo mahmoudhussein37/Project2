@@ -51,6 +51,9 @@ body {
 .header .links {
   position: relative;
 } 
+.header .links:hover .icons span:nth-child(2){
+  width: 100%;
+}
 .header .links .icons {
   width: 30px;
   display: flex;
@@ -67,6 +70,7 @@ body {
 }
 .header .links .icons span:nth-child(2) {
   width: 60%;
+  transition: 0.3s;
 }
 .header .links .icons span:last-child {
   width: 100%;
