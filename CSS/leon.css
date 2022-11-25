@@ -51,9 +51,13 @@ body {
 .header .links {
   position: relative;
 } 
-.header .links .icon {
+.header .links .icons {
   width: 30px;
   display: flex;
   flex-wrap: wrap;
+}
+.header .links .icons span {
+  background-color: #333;
+  margin-bottom: 5px;
 }
   /* End header */
