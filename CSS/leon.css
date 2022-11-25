@@ -11,6 +11,16 @@ body {
     font-family: "Work Sans", sans-serif;
 }
   /* End Global Rules */
+  /* Start components */
+.special-heading {
+  color: #ebeced;
+  font-size: 100px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: -3px;
+  margin: 0;
+}  
+  /* End components */
 .parent{
     background-color: gray;
 }
