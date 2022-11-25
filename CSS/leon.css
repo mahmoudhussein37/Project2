@@ -35,3 +35,14 @@ body {
       width: 1170px;
     }
 }
+  /* End Global Rules */
+  /* Start header */
+.header {
+  padding: 20px;
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}  
+  /* End header */
