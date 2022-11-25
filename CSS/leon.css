@@ -8,3 +8,12 @@ body {
     font-family: "Work Sans", sans-serif;
 }
   /* End Global Rules */
+.parent{
+    background-color: gray;
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
