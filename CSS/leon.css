@@ -249,4 +249,9 @@ body {
 .services .services-content .image img {
   width: 260px;
 }
+@media (max-width: 1199px) {
+  .image-column {
+    display: none;
+  }
+}
   /* End Services */
