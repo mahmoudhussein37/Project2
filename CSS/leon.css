@@ -1,6 +1,7 @@
 /* Start Global Rules */
 :root {
   --main-color: #10cab7;
+  --secondary-color: #2c4755;
 }
 * {
     -webkit-box-sizing: border-box;
